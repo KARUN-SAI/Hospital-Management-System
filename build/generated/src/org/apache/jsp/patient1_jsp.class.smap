@@ -1,0 +1,14 @@
+SMAP
+patient1_jsp.java
+JSP
+*S JSP
+*F
++ 0 patient1.jsp
+patient1.jsp
+*L
+5,52:48
+57,33:101
+89,3:134
+92,13:138
+104,23:151
+*E
